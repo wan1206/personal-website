@@ -1,0 +1,96 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff;
+  padding: 20px;
+}
+
+body.home-page {
+  background-image: url(https://www.flagcolorcodes.com/filter?f=kedah&e=paper);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body.education-page {
+  background-image: url(https://www.mysabah.com/wordpress/wp-content/uploads/2021/02/20210216.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+body.interest-page {
+  background-image: url(https://hips.hearstapps.com/hmg-prod/images/dramatic-sunset-quotes-6644e0bb4c2af.jpg?crop=1.00xw:0.886xh;0,0&resize=1200:*);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+body.activities-page {
+  background-image: url(https://wp-cpr.s3.amazonaws.com/uploads/2020/08/AP20222103245101-1024x682.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+body.qualification-page {
+  background-image: url(https://images.stockcake.com/public/f/c/a/fcad10af-bb35-4675-8c0c-25a09559591a_large/sunset-over-ocean-stockcake.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  display: flex;
+  justify-content: center;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: grey;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+p {
+  width: 80%;
+  margin: auto;
+  font-size: 1.2em;
+  line-height: 1.6;
+
+}
+
+  .img {
+      width: 200px;            
+      height: 200px;
+      border-radius: 50%;     
+      border: 3px solid #333;  
+      object-fit: cover;   
+      display: block; 
+      margin: 0 auto;
+}
+
+
+  
