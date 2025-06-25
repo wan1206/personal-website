@@ -5,20 +5,20 @@ body {
 }
 
 body.home-page {
-  background-image: url(https://www.flagcolorcodes.com/filter?f=kedah&e=paper);
+  background-image: url(https://wp-cpr.s3.amazonaws.com/uploads/2020/08/AP20222103245101-1024x682.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 body.education-page {
-  background-image: url(https://www.mysabah.com/wordpress/wp-content/uploads/2021/02/20210216.jpg);
+  background-image: url(https://wp-cpr.s3.amazonaws.com/uploads/2020/08/AP20222103245101-1024x682.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   
 }
 
 body.interest-page {
-  background-image: url(https://hips.hearstapps.com/hmg-prod/images/dramatic-sunset-quotes-6644e0bb4c2af.jpg?crop=1.00xw:0.886xh;0,0&resize=1200:*);
+  background-image: url(https://wp-cpr.s3.amazonaws.com/uploads/2020/08/AP20222103245101-1024x682.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   
@@ -32,7 +32,7 @@ body.activities-page {
 }
 
 body.qualification-page {
-  background-image: url(https://images.stockcake.com/public/f/c/a/fcad10af-bb35-4675-8c0c-25a09559591a_large/sunset-over-ocean-stockcake.jpg);
+  background-image: url(https://wp-cpr.s3.amazonaws.com/uploads/2020/08/AP20222103245101-1024x682.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   
@@ -90,6 +90,29 @@ p {
       object-fit: cover;   
       display: block; 
       margin: 0 auto;
+}
+
+.changkat_asa {
+  padding-left: 40px;
+  width: 20%;
+  height: 20;
+  display: block;
+  margin: 0 auto;
+}
+.ketoyong {
+  padding-left: 40px;
+  width: 20%;
+  height: 20;
+  display: block;
+  margin: 0 auto;
+}
+
+.obs {
+  padding-left: 40px;
+  width: 20%;
+  height: 20;
+  display: block;
+  margin: 0 auto;
 }
 
 
